@@ -8,3 +8,6 @@ python:3.12.4-alpine
 python:3.11.9-alpine
 python:3.12.4-slim
 python:3.11.9-slim
+python:3.10.14-slim
+python:3.9.19-slim
+python:3.8.19-slim
