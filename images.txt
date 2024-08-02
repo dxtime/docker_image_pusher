@@ -12,3 +12,4 @@ python:3.10.14-slim
 python:3.9.19-slim
 python:3.8.19-slim
 mysql:latest
+redis:alpine
