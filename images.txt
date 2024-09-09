@@ -6,6 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 python:3.12.4-alpine
 python:3.11.9-alpine
+python:3.11.10-alpine
 python:3.12.4-slim
 python:3.11.9-slim
 python:3.10.14-slim
