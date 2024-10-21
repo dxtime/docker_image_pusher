@@ -15,5 +15,5 @@ mysql:latest
 redis:alpine
 python:3.11.10-alpine
 python:3.11.10-slim
-python-arm:3.11.10-alpine
-python-arm:3.11.10-slim
+python:arm-3.11.10-alpine
+python:arm-3.11.10-slim
