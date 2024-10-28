@@ -15,6 +15,7 @@ mysql:latest
 redis:alpine
 python:3.11.10-alpine
 python:3.11.10-slim
-arm64v8/python:3.11.10-alpine
-arm64v8/python:3.11.10-slim
-arm64v8/alpine:latest
+--platform=linux/arm64 python:3.11.10-alpine
+--platform=linux/arm64 python:3.11.10-slim
+--platform=linux/arm64 alpine:latest
+onlyoffice/documentserver
