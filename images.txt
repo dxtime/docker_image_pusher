@@ -8,8 +8,8 @@ mysql:latest
 redis:alpine
 python:3.11.10-alpine
 #--platform=linux/arm64 alpine:latest
-python:3.11.11-slim
-python:3.13.2-slim
+#python:3.11.12-slim
+python:3.13.3-slim
 --platform=linux/arm64 python:3.11.10-alpine
---platform=linux/arm64 python:3.11.11-slim
---platform=linux/arm64 python:3.13.2-slim
+--platform=linux/arm64 python:3.11.13-slim
+--platform=linux/arm64 python:3.13.3-slim
