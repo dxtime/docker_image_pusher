@@ -6,7 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 alpine:latest
 python:3.11.14-slim
-python:3.13.8-slim
+python:3.13.9-slim
 python:3.11.14-alpine
---platform=linux/arm64 python:3.13.8-slim
+--platform=linux/arm64 python:3.13.9-slim
 --platform=linux/arm64 python:3.11.14-alpine
