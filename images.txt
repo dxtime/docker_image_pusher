@@ -5,8 +5,8 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 alpine:latest
-python:3.11.14-slim
 python:3.13.9-slim
-python:3.11.14-alpine
+python:3.13.11-slim
+selenium/standalone-chrome:4.40.0-20260120
 --platform=linux/arm64 python:3.13.9-slim
---platform=linux/arm64 python:3.11.14-alpine
+--platform=linux/arm64 python:3.13.11-slim
