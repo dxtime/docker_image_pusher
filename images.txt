@@ -5,7 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 alpine:latest
-python:3.13.11-slim
-selenium/standalone-chrome:4.40.0-20260120
-ghcr.io/berriai/litellm:v1.81.0-stable
---platform=linux/arm64 python:3.13.11-slim
+python:3.13.12-slim
+# selenium/standalone-chrome:4.40.0-20260120
+ghcr.io/berriai/litellm:v1.82.3-stable
+# --platform=linux/arm64 python:3.13.12-slim
